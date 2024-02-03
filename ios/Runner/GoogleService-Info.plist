@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBHP57J8oNmRtAqMP-1F2sQgvCfpKsg8ic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>491951450183</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.birabaseUi</string>
+	<key>PROJECT_ID</key>
+	<string>fir-all-b90fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-all-b90fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:491951450183:ios:f5419b89a15cadd6a5a962</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-all-b90fc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

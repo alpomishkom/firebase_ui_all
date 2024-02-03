@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "491951450183",
+    "firebase_url": "https://fir-all-b90fc-default-rtdb.firebaseio.com",
+    "project_id": "fir-all-b90fc",
+    "storage_bucket": "fir-all-b90fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491951450183:android:d882a57dca4a194fa5a962",
+        "android_client_info": {
+          "package_name": "com.example.birabase_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbv7bd6azNEj4maBcMcTn35bYntyDr90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
